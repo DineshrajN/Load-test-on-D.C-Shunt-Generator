@@ -1,6 +1,6 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name:Kishore E
-### Reg no:212223080028
+### Name:Dineshraj N
+### Reg no:212223080012
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
